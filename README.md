@@ -1,0 +1,2 @@
+# goumkm
+Aplikasi umkm
